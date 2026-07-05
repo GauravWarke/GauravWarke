@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:4F46E5&height=200&section=header&text=Gaurav%20Warke&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Business%20%26%20Data%20Analyst%20%C2%B7%20AI%2FML%20%C2%B7%20Analytics%20Engineering&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:4F46E5&height=200&section=header&text=Gaurav%20Warke&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Business%20%26%20Data%20Analyst%20%C2%B7%20AI%2FML%20%C2%B7%20Analytics%20Engineering&descAlignY=58&descSize=16&reload=2" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=680&lines=Business+%26+Data+Analyst+%C2%B7+FinTech;Data-Driven+Insights+%26+Process+Optimization;AI%2FML+%26+Analytics+Engineering;Turning+insights+and+learnings+into+value" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=680&reload=2&lines=Business+%26+Data+Analyst+%C2%B7+FinTech;Data-Driven+Insights+%26+Process+Optimization;AI%2FML+%26+Analytics+Engineering;Turning+insights+and+learnings+into+value" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -322,6 +322,6 @@ open_to:    [Graduate roles: Data Analytics, BI, FinTech, Supply Chain, Product 
 
 *"I build the model, the pipeline, and the dashboard myself. No hand-offs, no black boxes."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:6366F1,100:8B5CF6&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:6366F1,100:8B5CF6&height=120&section=footer&reload=2" width="100%"/>
 
 </div>

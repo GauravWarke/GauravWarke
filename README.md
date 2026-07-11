@@ -264,16 +264,6 @@ Low-confidence records route to review, so there are no silent failures.
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=GauravWarke&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6)
-
-</div>
-
----
-
 ## Contribution Activity
 
 <div align="center">
